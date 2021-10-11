@@ -1,0 +1,5 @@
+#video-container .img {
+    height: 800px;
+    width: 800px;
+    background-size: cover;
+}
